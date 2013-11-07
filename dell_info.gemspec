@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = DellInfoGem::VERSION
   gem.authors       = ["Kevin Wolf"]
   gem.email         = ["kwolf72@gmail.com"]
-  gem.summary       = %q{TODO: Write a short summary. Required.}
-  gem.description   = %q{TODO: Write a longer description. Optional.}
+  gem.summary       = %q{Gem used to obtain server infromation from Dell}
+  #gem.description   = %q{TODO: Write a longer description. Optional.}
   gem.homepage      = ""
   gem.license       = ""
 
